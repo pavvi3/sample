@@ -1,3 +1,6 @@
 testing rebase
 rebase 2nd commit 
+<<<<<<< HEAD
 rebase to master branch
+=======
+>>>>>>> bc7f5bbd6a35bd658a808bde1930f0766c2fa087
